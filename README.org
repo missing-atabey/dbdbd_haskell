@@ -14,7 +14,7 @@ Only the *base* and *random* packages for compilation but this is assuming you'v
 ** How do I run this?
 CD into the project directory and run this in a bash shell:
 #+BEGIN_SRC bash
-cabal build && cabal run
+cabal run
 #+END_SRC
 
 ** Why would u do this in Haskell??
