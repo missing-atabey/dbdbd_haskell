@@ -3,6 +3,8 @@
 #+CAPTION: chipi chipi cat meme
 [[./chipi-chipi-chapa-chapa.gif]]
 
+chipi chipi chapa chapa dubi dubi daba daba mágico mi dubi dubi boom boom boom boom
+
 ** What is this?
 It's just a silly lil project inspired by a Twitter mutual's similar project in Go. This simply randomizes some words and prints them out after shuffling them. However, it only prints out a certain string when the words were shuffled into their original order.
 
