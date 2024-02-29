@@ -2,7 +2,6 @@
 
 
 #+CAPTION: chipi chipi cat meme
-#+NAME:   fig:chipi_chipi
 [[https://media1.tenor.com/m/Jc9jT66AJRwAAAAd/chipi-chipi-chapa-chapa.gif]]
 
 ** What is this?
