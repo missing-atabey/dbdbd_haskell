@@ -1,16 +1,16 @@
-# dbdbd_haskell
+* dbdbd_haskell
 
-## What is this?
+** What is this?
 It's just a silly lil project inspired by a Twitter mutual's similar project in Go. This simply randomizes some words and prints them out after shuffling them. However, it only prints out a certain string when the words were shuffled into their original order.
 
-## What dependencies does this have?
+** What dependencies does this have?
 Only the base and random packages for compilation but this is assuming you've got GHC 2010 and Cabal set up on your system. If in doubt check the cabal file or just use the prepackaged x86_64 Linux build provided in the build directory :)
 
-## How do I run this?
+** How do I run this?
 CD into the project directory and run this in a bash shell:
 #+BEGIN_SRC bash
 cabal build && cabal run
 #+END_SRC
 
-## Why would u do this in Haskell??
+** Why would u do this in Haskell??
 Why not? It was challenging figuring out randomization in a form that fit Haskell's functional paradigm and kept things as pure as possible. Getting used to monads is something I aspire for, and getting a better grasp of functors and how they are used to structure code definitely contributed to that goal!
