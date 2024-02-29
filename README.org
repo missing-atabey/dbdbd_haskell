@@ -7,7 +7,7 @@
 It's just a silly lil project inspired by a Twitter mutual's similar project in Go. This simply randomizes some words and prints them out after shuffling them. However, it only prints out a certain string when the words were shuffled into their original order.
 
 ** What dependencies does this have?
-Only the base and random packages for compilation but this is assuming you've got GHC 2010 and Cabal set up on your system. If in doubt check the cabal file or just use the prepackaged x86_64 Linux build provided in the build directory :)
+Only the base and random packages for compilation but this is assuming you've got GHC 2010 and Cabal set up on your system. 
 
 ** How do I run this?
 CD into the project directory and run this in a bash shell:
